@@ -1,3 +1,5 @@
+//input feild for adding tasks
+
 import { useState } from "react";
 
 const TodoInput = ({ onAdd }) => {
@@ -22,8 +24,10 @@ const TodoInput = ({ onAdd }) => {
     className="bg-blue-900 text-white px-4 py-2 rounded" 
     >
        +
+       
     </button>
     </form>
+    
 );
 };
 

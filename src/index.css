@@ -1,1 +1,12 @@
 @import "tailwindcss";
+
+#more {
+    background: none;
+    border: none;
+    color: #FFF;
+    font-family: Verdana, Geneva, sans-serif;
+    cursor: pointer;
+}
+body {
+    background-color: whitesmoke;
+}

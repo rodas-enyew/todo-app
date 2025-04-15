@@ -1,3 +1,4 @@
+//list that hods all of the todos
 import TodoItem from "./TodoItem";
 
 const TodoList = ({ todos, onDelete, onToggle }) => {
